@@ -1,6 +1,6 @@
-###<center>Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing</center>
+### <center>Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing</center>
 
-####Phase I:  The fully homomorphic encryption algorithm coding in C++
+#### Phase I:  The fully homomorphic encryption algorithm coding in C++
 
 1. The fully homomorphic encryption coding based on the Helib library.
 
@@ -14,7 +14,7 @@ git clone https://github.com/shaih/HElib.
 
    This file will encrypt sub-tensors using the software library .
 
-####Phase II: Algorthm for Computing S-tSVD
+#### Phase II: Algorthm for Computing S-tSVD
 
 We use aerial video data as evidence of our experimental testing, which is of MPEG4 format.
 
@@ -28,7 +28,7 @@ We use aerial video data as evidence of our experimental testing, which is of MP
 
 In particular, the new tensor product (t-product) coding is load by t_product.m
 
-####Attachment:  Presentation of experimental results coding in Matlab
+#### Attachment:  Presentation of experimental results coding in Matlab
 
 on the one hand, the feature matrix and eigenvalues obtained after tensor decomposition are obtained by the last part of code PaperCode.m.
 
